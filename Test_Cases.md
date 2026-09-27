@@ -133,3 +133,6 @@ The test results shows the program can handel:
 - Case-sensitive `END` termination
 
 ---
+# Test cases (image results)
+![Sample and few additional Test case results](Test_Cases.png)
+![Edge case Test results](Test_Cases2.png)
